@@ -18,22 +18,25 @@ export const metadata: Metadata = {
   title: 'RuaSide ServerSide | Ultimate Gaming Community',
   description: 'Join RuaSide - The ultimate gaming server community with Discord whitelist bot, open source database, and free unlimited whitelists',
   generator: 'v0.app',
+  verification: {
+    google: 'ВАШ_КОД_ИЗ_GOOGLE_SEARCH_CONSOLE',
+  },
   icons: {
     icon: [
       {
-        url: '/icon-light-32x32.png',
+        url: '/RuaSide/icon-light-32x32.png',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/icon-dark-32x32.png',
+        url: '/RuaSide/icon-dark-32x32.png',
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: '/icon.svg',
+        url: '/RuaSide/icon.svg',
         type: 'image/svg+xml',
       },
     ],
-    apple: '/apple-icon.png',
+    apple: '/RuaSide/apple-icon.png',
   },
 }
 
