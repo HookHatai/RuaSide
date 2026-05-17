@@ -45,7 +45,7 @@ export default function Home() {
           <nav className="max-w-7xl mx-auto px-4 sm:px-6 py-4 sm:py-6 flex items-center justify-between">
             <div className="flex items-center gap-2 sm:gap-3">
               <img 
-                src="/logo.png" 
+                src="/RuaSide/logo.png" 
                 alt="RuaSide Logo" 
                 className="h-8 sm:h-10 w-8 sm:w-10 object-contain"
               />
@@ -122,7 +122,7 @@ export default function Home() {
             <div className="flex flex-col sm:flex-row items-center justify-between gap-6 sm:gap-8 text-center sm:text-left">
               <div className="flex items-center gap-2 sm:gap-3">
                 <img 
-                  src="/logo.png" 
+                  src="/RuaSide/logo.png" 
                   alt="RuaSide" 
                   className="h-6 sm:h-8 w-6 sm:w-8 object-contain"
                 />
