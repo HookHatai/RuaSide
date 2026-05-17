@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   description: 'Join RuaSide - The ultimate gaming server community with Discord whitelist bot, open source database, and free unlimited whitelists',
   generator: 'v0.app',
   verification: {
-    google: 'ВАШ_КОД_ИЗ_GOOGLE_SEARCH_CONSOLE',
+    google: 'aYo5lQuBZuZVy_bNfrlMf-g27rju3ZKaKKRKbV7BgP4',
   },
   icons: {
     icon: [
