@@ -1,8 +1,12 @@
 /** @type {import('next').NextConfig} */
+
+// Замени 'futuristic-website-design' на точное название твоего репозитория
+const repoName = 'RuaSide'
+
 const nextConfig = {
   output: 'export',
-  // Замени 'futuristic-website-design' на точное название твоего репозитория на GitHub
-  basePath: '/RuaSide',
+  basePath: `/${repoName}`,
+  assetPrefix: `/${repoName}/`,
   typescript: {
     ignoreBuildErrors: true,
   },
